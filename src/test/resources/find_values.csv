@@ -1,0 +1,5 @@
+value; result; result_array
+5; false; [10, null, null, null, 14, 9, 4]
+14; true; [10, null, null, null, 14, 9, 4]
+9; true; [10, null, null, null, 14, 9, 4]
+4; true; [10, null, null, null, 14, 9, 4]
